@@ -1,2 +1,1 @@
-# Pathfinding-Visualizer
 # E-commerce
